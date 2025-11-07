@@ -49,14 +49,14 @@
   ```bash
   pip install colorama
 
--Clone the repo
-  git clone https://github.com/mahaaldalpatia/Rock-Paper-Scissors-Python.git
+Clone the repo
+ - git clone https://github.com/mahaaldalpatia/Rock-Paper-Scissors-Python.git
 
--Go into the project folder
-  cd Rock-Paper-Scissors-Python
+Go into the project folder
+  - cd Rock-Paper-Scissors-Python
 
--Install dependencies
-  pip install colorama
+Install dependencies
+  - pip install colorama
 
--Run the game
-  main.py
+Run the game
+ - main.py
